@@ -1,6 +1,6 @@
 <h1>Hi I'm Mustafa 👋 </h1>
 
-<h3 align="center">Backend Web Developer 💻.</h3>
+<h3 align="center">Backend Laravel Php 💻.</h3>
 <hr>
 
 
