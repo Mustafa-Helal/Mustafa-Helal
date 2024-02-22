@@ -14,7 +14,7 @@
 ## 📩 Connect with me
 <p align="left">
   
-<a href="https://www.linkedin.com/in/mostafa-helal-158b89214" target="blank">
+<a href="https://www.linkedin.com/in/mustafa-helal-02496a2b3" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa elnemr" height="30" width="40" />
 </a>
 
@@ -23,12 +23,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafaelnemr" height="30" width="40" />
 </a>
 
-<a href="https://wa.me/qr/SZCHUYF44Q3VN1" target="blank">
+<a href="https://wa.me/qr/DRZICERKVJ36B1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mostafaelnmer" height="30" width="40" />
-</a> 
-
-<a href="https://instagram.com/x_mustafa_helal?utm_source=qr&igshid=ZGUzMzM3NWJiOQ%3D%3D" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafaelnmer" height="30" width="40" />
 </a> 
 
 </p>
